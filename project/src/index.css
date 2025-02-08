@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* @font-face {
+    font-family: 'Lato';
+    src: url('http://localhost:3000/css/fonts/Lato-Regular.ttf') format('truetype');
+  }
+   */
